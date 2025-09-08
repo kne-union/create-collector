@@ -1,0 +1,17 @@
+{
+  "isFull": false,
+  "list": [
+    {
+      "title": "这里填写示例标题",
+      "description": "这里填写示例说明",
+      "code": "./base.js",
+      "scope": [
+        {
+          "name": "_CreateCollector",
+          "packageName": "@kne/current-lib_create-collector",
+          "importStatement": "import * as _CreateCollector from \"@kne/create-collector\""
+        }
+      ]
+    }
+  ]
+}
