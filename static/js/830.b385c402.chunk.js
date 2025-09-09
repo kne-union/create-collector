@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunk_kne_components_create_collector=self.webpackChunk_kne_components_create_collector||[]).push([[830],{1830:(e,t,n)=>{n.r(t),n.d(t,{default:()=>a});const a=(e,t)=>{t=Object.assign({},{maxTime:5e3},t);let n,a=[];const c=async()=>{try{a.length>0&&await e(a),a=[]}catch(t){console.error(t)}},s=async e=>{a.push(e),n=new Date,(Number.isInteger(t.maxLength)&&t.maxLength>0&&a.length>=t.maxLength||Date.now()-n>=t.maxLength.maxTime)&&await c()};return s.all=c,s}}}]);
-//# sourceMappingURL=830.b385c402.chunk.js.map
