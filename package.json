@@ -1,6 +1,6 @@
 {
   "name": "@kne/create-collector",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "创建一个消息集合，当接收到的消息达到数量上限再触发callback，一般用于高频数据上报，如日志上报时避免频繁请求服务器",
   "syntax": {
     "esmodules": true
